@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "bd70efa3-bfe4-452b-837a-169afef1beac"
+      }
+    },
+    "owner": "papilio"
   }
 }
